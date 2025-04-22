@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.temperature{
+  font-family:arial;
+  font-size:8rem;
+  padding:1rem;
+}
+
+testBtn {
+  place-items: center;
+}
